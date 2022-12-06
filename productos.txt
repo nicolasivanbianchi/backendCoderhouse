@@ -1,0 +1,7 @@
+{"1":{"title":"Primer producto","price":53892,"thumbnail":"http://algo.com"},
+
+"2":{"title":"Segundo producto","price":91723,"thumbnail":"http://algo.com"},
+
+"3":{"title":"Tercer producto","price":23424,"thumbnail":"http://algo.com"}
+
+}
